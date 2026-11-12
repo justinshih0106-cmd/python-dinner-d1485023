@@ -9,3 +9,4 @@ GitHub 作業連結：
 https://github.com/justinshih0106-cmd/python-dinner-d1485023/blob/main/dinner_split_d1485023.ipynb
 
 筆記本連結：
+https://github.com/justinshih0106-cmd/python-dinner-d1485023
